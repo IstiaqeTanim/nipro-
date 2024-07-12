@@ -1,0 +1,154 @@
+﻿/*font links*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+/*header start*/
+.c_padd{
+	padding: 0 200px 0 200px;
+}
+header{
+	font-family: "Lato", sans-serif;
+	padding: 15px 0 15px !important;
+}
+.logo{
+	font-size: 30px;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #333333 !important;
+}
+.menu{
+	font-size: 16px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+.menu ul li{
+	padding: 0 15px;
+	color: #8e8e8e;
+}
+.menu ul li a:last-child{
+	padding-right: 0 !important;
+}
+.menu ul li a{
+	color: #8e8e8e;
+}
+.home a{
+	font-weight: 700;
+	color: #333333 !important;
+}
+/*header end*/
+/*banner start*/
+.banner{}
+.n_image{
+	position: relative;
+}
+.n_image img{
+	height: auto;
+}
+.b_text{
+	position: absolute;
+	top: 25%;
+	color: white;
+}
+.bh1{
+	font-size: 50px;
+	font-weight: 700;
+}
+.bp{
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 50px 0 60px;
+}
+.btn_c{
+	width: 200px;
+	height: 50px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 500;
+	text-align: left;
+	background-color: white;
+	transition: .33s linear;
+}
+.btn_c:hover{
+	background-color: #898989;
+}
+.b_button{
+	margin-top: 100px;
+}
+/*banner end*/
+/*welcome start*/
+.w_text{}
+.wh2{
+	padding: 50px 0 50px;
+	font-size: 30px;
+	color: #333333;
+	text-transform: uppercase;
+}
+.wp{
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #8e8e8e;
+}
+.box{
+	box-sizing: border-box;
+}
+.w_item{
+	padding: 105px 0 95px;
+}
+/*welcome end*/
+/*about start*/
+.about{
+	padding-bottom: 130px;
+}
+.a_image{}
+.ah2{
+	padding-bottom: 35px;
+	font-size: 30px;
+	text-transform: uppercase;
+	color: #333333;
+}
+.ap{
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #8e8e8e;
+}
+.ap2{
+	padding-top: 40px;
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #8e8e8e;
+}
+/*about end*/
+.r_box{
+
+	background-color: #f8f8f8;
+	padding-bottom: 90px;
+}
+.rh2{
+	padding: 80px 120px;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+.item{
+	font-family: "Roboto", sans-serif;
+	text size: 16px;
+	color: #8e8e8e;
+	text-transform: uppercase;
+}
+.bh22{
+	font-size: 30px;
+	text-transform: uppercase;
+	padding: 70px 0 90px;
+}
+.back_image{
+	position: relative;
+}
+.back_image img{
+	height: auto;
+}
+.bw_text{
+	position: absolute;
+	top: 25%;
+}
